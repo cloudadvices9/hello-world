@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to Cloudadvices.com</h1>
+    <h1>Welcome to First Project</h1>
     <h1><marquee> This is our first project CICD Deployment by using GIT,MAVEN, TOMCAT and Jenkins, EC2 </marquee></h1>
     <h1> Founder by Karnam  </h1>
     <p>Please fill in this form to create an account.</p>
@@ -33,7 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, For Contacting the cloudadvices, Cloudadvices recruitment team wishes you ALL THE VERY BEST </h1>
+   <h1> Thankyou, for your showing your in our first project, we are looking forward to connect </h1>
 
   
 </form>
